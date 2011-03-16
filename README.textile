@@ -1,0 +1,9 @@
+h1. Kode fra programmeringsworkshop 15. mars 2011
+
+For å kjøre disse på din egen maskin og for å lage nye roboter, se "http://robocode.sourceforge.net/":http://robocode.sourceforge.net/
+
+Mer spesifikt kan du se på:
+* "Nedlasting av Robocode":http://sourceforge.net/projects/robocode/files/robocode/1.7.2.2/robocode-1.7.2.2-setup.jar/download
+* "Sett opp Eclipse som IDE for robocode":http://robowiki.net/wiki/Robocode/Eclipse
+* "Lag din første robot":http://robowiki.net/wiki/Robocode/My_First_Robot
+* "robowiki":http://robowiki.net/
